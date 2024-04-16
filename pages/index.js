@@ -8,7 +8,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/navigation';
 
-const Home = {products ,bannerData ,event1Data,event2Data,event3Data}) => {
+const Home = ({products ,bannerData ,event1Data,event2Data,event3Data}) => {
   return (
     <>
       
