@@ -1696,3 +1696,14 @@ top:0px;
   }
   
 }
+
+/*Swiper setting*/
+
+ .swiper-button-next {
+   position: absolute;
+   right: 60px;
+
+ }
+ .swiper-button-prev{
+
+ }
