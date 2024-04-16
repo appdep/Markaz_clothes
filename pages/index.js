@@ -5,8 +5,7 @@ import { Navigation, A11y, Lazy } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // Import Swiper styles
-import 'swiper/css';
-import 'swiper/css/navigation';
+import 'swiper/swiper-bundle.css';
 
 const Home = ({products ,bannerData ,event1Data,event2Data,event3Data}) => {
   return (
